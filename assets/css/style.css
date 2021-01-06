@@ -1,0 +1,20 @@
+.judul_sistem {
+    margin-top: 15px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.kotak {
+    border: 2px solid #333;
+}
+
+.judul_stat {
+    font-size: 1em;
+}
+
+.nilai_stat {
+    font-size: 2em;
+    font-weight: bold;
+    color: #007f1f;
+}
